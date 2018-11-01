@@ -1,0 +1,532 @@
+LOCATION_ID,LOCATION_NAME
+L001,Henderson
+L002,Los Angeles
+L003,Fort Lauderdale
+L004,Concord
+L005,Seattle
+L006,Fort Worth
+L007,Madison
+L008,West Jordan
+L009,San Francisco
+L010,Fremont
+L011,Philadelphia
+L012,Orem
+L013,Houston
+L014,Richardson
+L015,Naperville
+L016,Melbourne
+L017,Eagan
+L018,Westland
+L019,Dover
+L020,New Albany
+L021,New York City
+L022,Troy
+L023,Chicago
+L024,Gilbert
+L025,Springfield
+L026,Jackson
+L027,Memphis
+L028,Decatur
+L029,Durham
+L030,Columbia
+L031,Rochester
+L032,Minneapolis
+L033,Portland
+L034,Saint Paul
+L035,Aurora
+L036,Charlotte
+L037,Orland Park
+L038,Urbandale
+L039,Columbus
+L040,Bristol
+L041,Wilmington
+L042,Bloomington
+L043,Phoenix
+L044,Roseville
+L045,Independence
+L046,Pasadena
+L047,Newark
+L048,Franklin
+L049,Scottsdale
+L050,San Jose
+L051,Edmond
+L052,Carlsbad
+L053,San Antonio
+L054,Monroe
+L055,Fairfield
+L056,Grand Prairie
+L057,Redlands
+L058,Hamilton
+L059,Westfield
+L060,Akron
+L061,Denver
+L062,Dallas
+L063,Whittier
+L064,Saginaw
+L065,Medina
+L066,Dublin
+L067,Detroit
+L068,Tampa
+L069,Santa Clara
+L070,Lakeville
+L071,San Diego
+L072,Brentwood
+L073,Chapel Hill
+L074,Morristown
+L075,Cincinnati
+L076,Inglewood
+L077,Tamarac
+L078,Colorado Springs
+L079,Belleville
+L080,Taylor
+L081,Lakewood
+L082,Arlington
+L083,Arvada
+L084,Hackensack
+L085,Saint Petersburg
+L086,Long Beach
+L087,Hesperia
+L088,Murfreesboro
+L089,Layton
+L090,Austin
+L091,Lowell
+L092,Manchester
+L093,Harlingen
+L094,Tucson
+L095,Quincy
+L096,Pembroke Pines
+L097,Des Moines
+L098,Peoria
+L099,Las Vegas
+L100,Warwick
+L101,Miami
+L102,Huntington Beach
+L103,Richmond
+L104,Louisville
+L105,Lawrence
+L106,Canton
+L107,New Rochelle
+L108,Gastonia
+L109,Jacksonville
+L110,Auburn
+L111,Norman
+L112,Park Ridge
+L113,Amarillo
+L114,Lindenhurst
+L115,Huntsville
+L116,Fayetteville
+L117,Costa Mesa
+L118,Parker
+L119,Atlanta
+L120,Gladstone
+L121,Great Falls
+L122,Lakeland
+L123,Montgomery
+L124,Mesa
+L125,Green Bay
+L126,Anaheim
+L127,Marysville
+L128,Salem
+L129,Laredo
+L130,Grove City
+L131,Dearborn
+L132,Warner Robins
+L133,Vallejo
+L134,Mission Viejo
+L135,Rochester Hills
+L136,Plainfield
+L137,Sierra Vista
+L138,Vancouver
+L139,Cleveland
+L140,Tyler
+L141,Burlington
+L142,Waynesboro
+L143,Chester
+L144,Cary
+L145,Palm Coast
+L146,Mount Vernon
+L147,Hialeah
+L148,Oceanside
+L149,Evanston
+L150,Trenton
+L151,Cottage Grove
+L152,Bossier City
+L153,Lancaster
+L154,Asheville
+L155,Lake Elsinore
+L156,Omaha
+L157,Edmonds
+L158,Santa Ana
+L159,Milwaukee
+L160,Florence
+L161,Lorain
+L162,Linden
+L163,Salinas
+L164,New Brunswick
+L165,Garland
+L166,Norwich
+L167,Alexandria
+L168,Toledo
+L169,Farmington
+L170,Riverside
+L171,Torrance
+L172,Round Rock
+L173,Boca Raton
+L174,Virginia Beach
+L175,Murrieta
+L176,Olympia
+L177,Washington
+L178,Jefferson City
+L179,Saint Peters
+L180,Rockford
+L181,Brownsville
+L182,Yonkers
+L183,Oakland
+L184,Clinton
+L185,Encinitas
+L186,Roswell
+L187,Jonesboro
+L188,Antioch
+L189,Homestead
+L190,La Porte
+L191,Lansing
+L192,Cuyahoga Falls
+L193,Reno
+L194,Harrisonburg
+L195,Escondido
+L196,Royal Oak
+L197,Rockville
+L198,Coral Springs
+L199,Buffalo
+L200,Boynton Beach
+L201,Gulfport
+L202,Fresno
+L203,Greenville
+L204,Macon
+L205,Cedar Rapids
+L206,Providence
+L207,Pueblo
+L208,Deltona
+L209,Murray
+L210,Middletown
+L211,Freeport
+L212,Pico Rivera
+L213,Provo
+L214,Pleasant Grove
+L215,Smyrna
+L216,Parma
+L217,Mobile
+L218,New Bedford
+L219,Irving
+L220,Vineland
+L221,Glendale
+L222,Niagara Falls
+L223,Thomasville
+L224,Westminster
+L225,Coppell
+L226,Pomona
+L227,North Las Vegas
+L228,Allentown
+L229,Tempe
+L230,Laguna Niguel
+L231,Bridgeton
+L232,Everett
+L233,Watertown
+L234,Appleton
+L235,Bellevue
+L236,Allen
+L237,El Paso
+L238,Grapevine
+L239,Carrollton
+L240,Kent
+L241,Lafayette
+L242,Tigard
+L243,Skokie
+L244,Plano
+L245,Suffolk
+L246,Indianapolis
+L247,Bayonne
+L248,Greensboro
+L249,Baltimore
+L250,Kenosha
+L251,Olathe
+L252,Tulsa
+L253,Redmond
+L254,Raleigh
+L255,Muskogee
+L256,Meriden
+L257,Bowling Green
+L258,South Bend
+L259,Spokane
+L260,Keller
+L261,Port Orange
+L262,Medford
+L263,Charlottesville
+L264,Missoula
+L265,Apopka
+L266,Reading
+L267,Broomfield
+L268,Paterson
+L269,Oklahoma City
+L270,Chesapeake
+L271,Lubbock
+L272,Johnson City
+L273,San Bernardino
+L274,Leominster
+L275,Bozeman
+L276,Perth Amboy
+L277,Ontario
+L278,Rancho Cucamonga
+L279,Moorhead
+L280,Mesquite
+L281,Stockton
+L282,Ormond Beach
+L283,Sunnyvale
+L284,York
+L285,College Station
+L286,Saint Louis
+L287,Manteca
+L288,San Angelo
+L289,Salt Lake City
+L290,Knoxville
+L291,Little Rock
+L292,Lincoln Park
+L293,Marion
+L294,Littleton
+L295,Bangor
+L296,Southaven
+L297,New Castle
+L298,Midland
+L299,Sioux Falls
+L300,Fort Collins
+L301,Clarksville
+L302,Sacramento
+L303,Thousand Oaks
+L304,Malden
+L305,Holyoke
+L306,Albuquerque
+L307,Sparks
+L308,Coachella
+L309,Elmhurst
+L310,Passaic
+L311,North Charleston
+L312,Newport News
+L313,Jamestown
+L314,Mishawaka
+L315,La Quinta
+L316,Tallahassee
+L317,Nashville
+L318,Bellingham
+L319,Woodstock
+L320,Haltom City
+L321,Wheeling
+L322,Summerville
+L323,Hot Springs
+L324,Englewood
+L325,Las Cruces
+L326,Hoover
+L327,Frisco
+L328,Vacaville
+L329,Waukesha
+L330,Bakersfield
+L331,Pompano Beach
+L332,Corpus Christi
+L333,Redondo Beach
+L334,Orlando
+L335,Orange
+L336,Lake Charles
+L337,Highland Park
+L338,Hempstead
+L339,Noblesville
+L340,Apple Valley
+L341,Mount Pleasant
+L342,Sterling Heights
+L343,Eau Claire
+L344,Pharr
+L345,Billings
+L346,Gresham
+L347,Chattanooga
+L348,Meridian
+L349,Bolingbrook
+L350,Maple Grove
+L351,Woodland
+L352,Missouri City
+L353,Pearland
+L354,San Mateo
+L355,Grand Rapids
+L356,Visalia
+L357,Overland Park
+L358,Temecula
+L359,Yucaipa
+L360,Revere
+L361,Conroe
+L362,Tinley Park
+L363,Dubuque
+L364,Dearborn Heights
+L365,Santa Fe
+L366,Hickory
+L367,Carol Stream
+L368,Saint Cloud
+L369,North Miami
+L370,Plantation
+L371,Port Saint Lucie
+L372,Rock Hill
+L373,Odessa
+L374,West Allis
+L375,Chula Vista
+L376,Manhattan
+L377,Altoona
+L378,Thornton
+L379,Champaign
+L380,Texarkana
+L381,Edinburg
+L382,Baytown
+L383,Greenwood
+L384,Woonsocket
+L385,Superior
+L386,Bedford
+L387,Covington
+L388,Broken Arrow
+L389,Miramar
+L390,Hollywood
+L391,Deer Park
+L392,Wichita
+L393,Mcallen
+L394,Iowa City
+L395,Boise
+L396,Cranston
+L397,Port Arthur
+L398,Citrus Heights
+L399,The Colony
+L400,Daytona Beach
+L401,Bullhead City
+L402,Portage
+L403,Fargo
+L404,Elkhart
+L405,San Gabriel
+L406,Margate
+L407,Sandy Springs
+L408,Mentor
+L409,Lawton
+L410,Hampton
+L411,Rome
+L412,La Crosse
+L413,Lewiston
+L414,Hattiesburg
+L415,Danville
+L416,Logan
+L417,Waterbury
+L418,Athens
+L419,Avondale
+L420,Marietta
+L421,Yuma
+L422,Wausau
+L423,Pasco
+L424,Oak Park
+L425,Pensacola
+L426,League City
+L427,Gaithersburg
+L428,Lehi
+L429,Tuscaloosa
+L430,Moreno Valley
+L431,Georgetown
+L432,Loveland
+L433,Chandler
+L434,Helena
+L435,Kirkwood
+L436,Waco
+L437,Frankfort
+L438,Bethlehem
+L439,Grand Island
+L440,Woodbury
+L441,Rogers
+L442,Clovis
+L443,Jupiter
+L444,Santa Barbara
+L445,Cedar Hill
+L446,Norfolk
+L447,Draper
+L448,Ann Arbor
+L449,La Mesa
+L450,Pocatello
+L451,Holland
+L452,Milford
+L453,Buffalo Grove
+L454,Lake Forest
+L455,Redding
+L456,Chico
+L457,Utica
+L458,Conway
+L459,Cheyenne
+L460,Owensboro
+L461,Caldwell
+L462,Kenner
+L463,Nashua
+L464,Bartlett
+L465,Redwood City
+L466,Lebanon
+L467,Santa Maria
+L468,Des Plaines
+L469,Longview
+L470,Hendersonville
+L471,Waterloo
+L472,Cambridge
+L473,Palatine
+L474,Beverly
+L475,Eugene
+L476,Oxnard
+L477,Renton
+L478,Glenview
+L479,Delray Beach
+L480,Commerce City
+L481,Texas City
+L482,Wilson
+L483,Rio Rancho
+L484,Goldsboro
+L485,Montebello
+L486,El Cajon
+L487,Beaumont
+L488,West Palm Beach
+L489,Abilene
+L490,Normal
+L491,Saint Charles
+L492,Camarillo
+L493,Hillsboro
+L494,Burbank
+L495,Modesto
+L496,Garden City
+L497,Atlantic City
+L498,Longmont
+L499,Davis
+L500,Morgan Hill
+L501,Clifton
+L502,Sheboygan
+L503,East Point
+L504,Rapid City
+L505,Andover
+L506,Kissimmee
+L507,Shelton
+L508,Danbury
+L509,Sanford
+L510,San Marcos
+L511,Greeley
+L512,Mansfield
+L513,Elyria
+L514,Twin Falls
+L515,Coral Gables
+L516,Romeoville
+L517,Marlborough
+L518,Laurel
+L519,Bryan
+L520,Pine Bluff
+L521,Aberdeen
+L522,Hagerstown
+L523,East Orange
+L524,Arlington Heights
+L525,Oswego
+L526,Coon Rapids
+L527,San Clemente
+L528,San Luis Obispo
+L529,Springdale
+L530,Lodi
+L531,Mason
